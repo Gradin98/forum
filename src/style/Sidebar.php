@@ -66,7 +66,6 @@ class Sidebar
                             '<center>'.
                                 '<p class="category-content-title">' . $res[0]['username'] . '</p>'.
                                 '<p class="category-content-description">Total posts: ' . $res[0]['count'] . '</p>'.
-                                '<p class="category-content-description"> ' . $res[0]['description'] . '</p>'.
                             '</center>'.
                         '</div>'.
                     '</div>'.
